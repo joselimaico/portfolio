@@ -1,0 +1,279 @@
+{
+  "basics": {
+    "name": "José Francisco Limaico Mera",
+    "label": "Senior Software Engineer (Backend)",
+    "image": "/me.webp",
+    "email": "joselimaicotele@gmail.com",
+    "phone": "+593 963631172",
+    "url": "",
+    "summary": "Senior Software Engineer con más de cuatro años de experiencia en el sector Fintech, me especializo en la creación y mantenimiento de soluciones robustas y escalables de Backend. Experto en EDA y AWS.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Quito",
+      "countryCode": "EC",
+      "region": "Ecuador"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jose-limaico",
+        "url": "https://linkedin.com/in/jose-limaico"
+      },
+      {
+        "network": "GitHub",
+        "username": "joselimaico",
+        "url": "https://github.com/joselimaico"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Kushki",
+      "position": "Líder Técnico",
+      "url": "https://kushkipagos.com/en/",
+      "startDate": "2021-08-01",
+      "endDate": null,
+      "summary": "Colaboro con equipos interdiciplinarios ayudando a definir los requisitos técnicos de los proyectos para ofrecer resultados de alta calidad. Diseño e implementación de arquitecturas orientadas a eventos (EDA) que ayudan a optimizar los sistemas para garantizar un rendimiento reactivo y de alta disponibilidad. Implementación de  servicios de AWS como Lambda, S3, DynamoDB, entre otros para crear aplicaciones resilientes y orientadas a eventos.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Kushki",
+      "position": "Software Developer",
+      "url": "https://kushkipagos.com/en/",
+      "startDate": "2019-08-01",
+      "endDate": "2021-08-01",
+      "summary": "Trabajé con una arquitectura de microservicios que mejoró la modularidad de los sistemas de Kushki y redujo las dependencias entre componentes en un 20%. Desarrollé aplicaciones backend utilizando lenguajes de programación como Golang y Nodejs. Donde  utilicé librerías como Serverless Framework y AWS CDK para su posterior despliegue en la nube. Integración de servicios de terceros a la API de Kushki para procesamiento de transacciones de manera sincrona y asíncrona",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Escuela Politécnica Nacional",
+      "url": "https://www.epn.edu.ec/",
+      "area": "Ingeniero en Sistemas Informáticos",
+      "studyType": "Bachelor",
+      "startDate": "2014-02-02",
+      "endDate": "2020-02-02",
+      "score": "Cum laude",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "date": "2022-06-04",
+      "issuer": "Amazon",
+      "url": "https://www.credly.com/badges/34e7af24-46e7-46d8-b528-744dffc5c903?source=linked_in_profile"
+    },
+    {
+      "name": "AWS Certified Developer - Associate",
+      "date": "2021-07-12",
+      "issuer": "Amazon",
+      "url": "https://www.credly.com/badges/0f081bdc-add3-48d8-b755-280b4cc1245b?source=linked_in_profile"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "AWS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Golang",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend",
+        "JavaScript",
+        "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "B2"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://advent.js/dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": [
+        "100% gratuito",
+        "+500 soluciones de la comunidad"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "https://miduconf.com"
+    }
+  ]
+}
